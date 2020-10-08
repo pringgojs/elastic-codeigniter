@@ -14,7 +14,8 @@
 		"php": ">=5.3.7",
 		"larapack/dd": "1.*",
 		"elasticsearch/elasticsearch": ">=6.7",
-		"jenssegers/blade": "^1.4"
+		"jenssegers/blade": "^1.4",
+		"stevenmaguire/oauth2-keycloak": "^2.1"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
