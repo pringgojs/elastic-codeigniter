@@ -13,7 +13,8 @@
 	"require": {
 		"php": ">=5.3.7",
 		"larapack/dd": "1.*",
-		"elasticsearch/elasticsearch": ">=6.7"
+		"elasticsearch/elasticsearch": ">=6.7",
+		"jenssegers/blade": "^1.4"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
